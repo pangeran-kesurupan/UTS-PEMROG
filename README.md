@@ -1,4 +1,4 @@
-Profile & Preference App
+# Profile & Preference App
 
 Aplikasi Android berbasis **Jetpack Compose** untuk tugas **UTS Mobile Programming – Paket A**  
 Menampilkan form profil, ringkasan dengan toggle **mode gelap**, dan halaman **riwayat data tersimpan**.
@@ -69,7 +69,7 @@ app/
 │
 ├── MainActivity.kt # Root dengan NavHost dan tema
 └── AndroidManifest.xml
-
+~~~
 ---
 
 ## Tampilan Aplikasi
@@ -119,4 +119,5 @@ Dilarang memperjualbelikan atau mendistribusikan ulang tanpa izin pembuat.
 
 Kamu mau saya bantu tambahkan **preview screenshot** otomatis di README (pakai tag `<img>`), misalnya dari hasil emulator yang kamu kirim?  
 Kalau iya, kirim 2–3 screenshot (Form, Ringkasan, SavedSettings), nanti saya tambahkan bagian *Screenshots* di README-mu biar makin keren.
+
 
